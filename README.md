@@ -1,2 +1,2 @@
-# pong-knight-dilo
+# pong-knight
 Submission for assigment
